@@ -1,0 +1,12 @@
+{
+  "name": "myStocks",
+  "displayName": "myStocks",
+  "expo": {
+    "name": "myStocks",
+    "slug": "myStocks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
